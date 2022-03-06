@@ -31,7 +31,7 @@ My name is Petra and I am a fresh graduate of a dual Master's in English and Com
 
 
 ## • **SOCIAL MEDIA** •
-If you would like to get to know me better and discuss common interests, you can find me on different social media platforms:
+If you would like to get to know me better and/or discuss common interests, you can find me on different social media platforms:
 
 🕸️ [Instagram](https://www.instagram.com/skarletxx/)
 
@@ -39,4 +39,4 @@ If you would like to get to know me better and discuss common interests, you can
 
 🖤 [Pinterest](https://pin.it/3EIDsEv)
 
-**If you would like to discuss a possible collaboration or a employment opportunity, please contact me through LinkedIn or directly via email.**
+**If you would like to discuss a possible collaboration or an employment opportunity, please contact me through LinkedIn or directly via email.**
