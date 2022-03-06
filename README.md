@@ -1,5 +1,5 @@
 # • **WELCOME** •
-My name is Petra and I am a fresh graduate of a dual Master's in English and Computational Linguistics, University of Zagreb, Croatia. I focus primarily on developing Natural Language Processing tools and resources. 
+My name is Petra and I am a fresh graduate of a dual Master's in **English and Computational Linguistics**, University of Zagreb, Croatia. I focus primarily on developing **Natural Language Processing** tools and resources. 
 
 
 ## • **INTERESTS** •
