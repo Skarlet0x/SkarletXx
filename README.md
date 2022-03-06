@@ -1,16 +1,42 @@
-### Hi there 👋
+# • **WELCOME** •
+My name is Petra and I am a fresh graduate of a dual Master's in English and Computational Linguistics, University of Zagreb, Croatia. I focus primarily on developing Natural Language Processing tools and resources. 
 
-<!--
-**SkarletXx/SkarletXx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## • **INTERESTS** •
+**LINGUISTICS**
+• Cognitive Syntax and Semantics
+• Psycholinguistics & Neurolinguistics
+• Coreference Resolution & Word Sense Disambiguation
+• Multidisciplinary approaches to language
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**PROGRAMMING**
+• Text Classification
+• Sentiment Analysis
+• Natural Language Understanding & Generation
+
+
+## • **LANGUAGES** •
+**NATURAL**
+
+• Croatian • English • German
+
+**PROGRAMMING**
+
+• Python
+
+
+## • **TECHNOLOGIES & TOOLS** •
+
+• TensorFlow • SciKit-Learn • NLTK • SpaCy • ElasticSearch • BERT • NumPy • Pandas • Matplotlib • BeautifulSoup •
+
+
+## • **SOCIAL MEDIA** •
+If you would like to get to know me better and discuss common interests, you can find me on different social media platforms:
+
+🕸️ [Instagram](https://www.instagram.com/skarletxx/)
+
+📖 [Goodreads](https://www.goodreads.com/user/show/104051196-petra)
+
+🖤 [Pinterest](https://pin.it/3EIDsEv)
+
+**If you would like to discuss a possible collaboration or a employment opportunity, please contact me through LinkedIn or directly via email.**
