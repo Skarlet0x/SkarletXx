@@ -15,6 +15,12 @@ My name is Petra and I am a fresh graduate of a dual Master's in **English and C
 • Natural Language Understanding & Generation
 
 
+• My Master's thesis, unifying both my fields of interest •
+
+[Computational and Psycholinguistic Approaches to
+Structural Ambiguity: The Case of Garden Path
+Sentences](https://repozitorij.ffzg.unizg.hr/islandora/object/ffzg%3A1852/datastream/PDF/view)
+
 ## • **LANGUAGES** •
 **NATURAL**
 
