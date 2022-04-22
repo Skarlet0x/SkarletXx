@@ -33,7 +33,7 @@ Sentences](https://repozitorij.ffzg.unizg.hr/islandora/object/ffzg%3A1852/datast
 
 ## • **TECHNOLOGIES & TOOLS** •
 
-• TensorFlow • SciKit-Learn • NLTK • SpaCy • ElasticSearch • BERT • NumPy • Pandas • Matplotlib • BeautifulSoup •
+• TensorFlow • SciKit-Learn • NLTK • SpaCy • ElasticSearch • BERT • HuggingFace • NumPy • Pandas • Matplotlib • BeautifulSoup •
 
 
 ## • **SOCIAL MEDIA** •
