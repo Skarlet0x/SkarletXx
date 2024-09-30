@@ -1,48 +1,21 @@
 # • **WELCOME** •
-My name is Petra and I am a **Development Engineer @ Mercedes-Benz** and a graduate of a dual Master's in **English and Computational Linguistics**, University of Zagreb, Croatia. I focus primarily on developing **Natural Language Processing** tools and resources. 
-
-
-## • **INTERESTS** •
-**LINGUISTICS**
-• Cognitive Syntax and Semantics
-• Psycholinguistics & Neurolinguistics
-• Coreference Resolution & Word Sense Disambiguation
-• Multidisciplinary approaches to language
-
-**PROGRAMMING**
-• Text Classification
-• Sentiment Analysis
-• Natural Language Understanding & Generation
-
-
-• My Master's thesis, unifying both my fields of interest •
-
-[Computational and Psycholinguistic Approaches to
-Structural Ambiguity: The Case of Garden Path
-Sentences](https://repozitorij.ffzg.unizg.hr/islandora/object/ffzg%3A1852/datastream/PDF/view)
+My name is Petra and I am a graduate of a dual Master's in **English and Computational Linguistics**, University of Zagreb, Croatia. I focus primarily on Data Science and Machine Learning, more specifically the field of **Natural Language Processing** and, more recently, **Generative AI** and **LLMs**. 
 
 ## • **LANGUAGES** •
 **NATURAL**
 
-• Croatian • English • German
+• Croatian • English (C2) • German (C1) • Dutch (B2) • Russian (B1)
 
 **PROGRAMMING**
 
 • Python
 
-
 ## • **TECHNOLOGIES & TOOLS** •
 
-• TensorFlow • SciKit-Learn • NLTK • SpaCy • ElasticSearch • BERT • HuggingFace • NumPy • Pandas • Matplotlib • BeautifulSoup •
+**Data Science** • TensorFlow, SciKit-Learn, NumPy, Pandas, MatPlotLib
+**Machine Learning & MLOps** • ElasticSearch, HuggingFace, Kubernetes*, Docker*
+**NLP** • NLTK, SpaCy, BERT, RegEx
+**GenAI** • LangChain*, Azure OpenAI*
+Others • BeautifulSoup
 
-
-## • **SOCIAL MEDIA** •
-If you would like to get to know me better and/or discuss common interests, you can find me on different social media platforms:
-
-🕸️ [Instagram](https://www.instagram.com/skarletxx/)
-
-📖 [Goodreads](https://www.goodreads.com/user/show/104051196-petra)
-
-🖤 [Pinterest](https://pin.it/3EIDsEv)
-
-**If you would like to discuss a possible collaboration or an employment opportunity, please contact me through LinkedIn or directly via email.**
+*still familiarizing myself with these technologies through courses and projects
