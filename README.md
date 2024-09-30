@@ -13,9 +13,13 @@ My name is Petra and I am a graduate of a dual Master's in **English and Computa
 ## • **TECHNOLOGIES & TOOLS** •
 
 **Data Science** • TensorFlow, SciKit-Learn, NumPy, Pandas, MatPlotLib
+
 **Machine Learning & MLOps** • ElasticSearch, HuggingFace, Kubernetes*, Docker*
+
 **NLP** • NLTK, SpaCy, BERT, RegEx
+
 **GenAI** • LangChain*, Azure OpenAI*
+
 Others • BeautifulSoup
 
 *still familiarizing myself with these technologies through courses and projects
