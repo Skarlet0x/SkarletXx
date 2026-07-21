@@ -1,25 +1,125 @@
-# • **WELCOME** •
-My name is Petra and I am a graduate of a dual Master's in **English and Computational Linguistics**, University of Zagreb, Croatia. I focus primarily on Data Science and Machine Learning, more specifically the field of **Natural Language Processing** and, more recently, **Generative AI** and **LLMs**. 
+<pre>
+███████╗██╗  ██╗ █████╗ ██████╗ ██╗     ███████╗████████╗
+██╔════╝██║ ██╔╝██╔══██╗██╔══██╗██║     ██╔════╝╚══██╔══╝
+███████╗█████╔╝ ███████║██████╔╝██║     █████╗     ██║
+╚════██║██╔═██╗ ██╔══██║██╔══██╗██║     ██╔══╝     ██║
+███████║██║  ██╗██║  ██║██║  ██║███████╗███████╗   ██║
+╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝   ╚═╝
 
-## • **LANGUAGES** •
-**NATURAL**
+███████╗ ██████╗ ██████╗  ██████╗ ███████╗
+██╔════╝██╔═══██╗██╔══██╗██╔════╝ ██╔════╝
+█████╗  ██║   ██║██████╔╝██║  ███╗█████╗
+██╔══╝  ██║   ██║██╔══██╗██║   ██║██╔══╝
+██║     ╚██████╔╝██║  ██║╚██████╔╝███████╗
+╚═╝      ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚══════╝
 
-• Croatian • English (C2) • German (C1) • Dutch (B2) • Russian (B1)
+Last login: 02:34:50, always
 
-**PROGRAMMING**
+skarlet@forge:~$ whoami
 
-• Python
+AI Engineer
+Computational Linguist
+Builder
+Combat Sports Enthusiast & Powerlifter
+Professional "there has to be a better way"
 
-## • **TECHNOLOGIES & TOOLS** •
+Currently replacing panic with software.
 
-**Data Science** • TensorFlow, SciKit-Learn, NumPy, Pandas, MatPlotLib
 
-**Machine Learning & MLOps** • ElasticSearch, HuggingFace, Kubernetes*, Docker*
+skarlet@forge:~$ cat system.info
 
-**NLP** • NLTK, SpaCy, BERT, RegEx
+NAME        :: Skarlet Forge
+LOCATION    :: Germany
+STATUS      :: Building cool shit
+MISSION     :: Replace spreadsheets, WhatsApp groups and chaos.
 
-**GenAI** • LangChain*, Azure OpenAI*
 
-Others • BeautifulSoup
+skarlet@forge:~$ cat ci_cd_pipeline.txt
 
-*still familiarizing myself with these technologies through courses and projects
+Get choked out
+        │
+        ▼
+Tape fighter's hands
+        │
+        ▼
+Wrap wrists
+        │
+        ▼
+Wipe blood off someone's face
+        │
+        ▼
+Bell rings
+        │
+        ▼
+git pull
+        │
+        ▼
+Debug FightCard generation
+        │
+        ▼
+git commit -m "surely this fixes it"
+        │
+        ▼
+Deploy
+        │
+        ▼
+Someone discovers an edge case
+
+
+skarlet@forge:~$ cat toolchain.md
+
+Languages
+───────────
+Doesn't matter
+
+Frameworks
+───────────
+All of them
+
+Knowledge
+─────────
+Syntax        :: outsourced
+Architecture  :: mine
+Debugging     :: pure instinct
+
+skarlet@forge:~$ cat languages.txt
+
+Croatian     Native
+English      C2
+German       C1
+Dutch        B2
+Russian      B1
+
+
+skarlet@forge:~$ cat build_queue.txt
+
+[██████████] Definitely not Skynet
+[█████████ ] FightCard
+[████████  ] AI that actually helps people
+[███████   ] Replacing spreadsheets
+[██        ] Touching grass
+
+
+skarlet@forge:~$ cat side_effects.log
+
+[-] Over-documents everything.
+[+] "There's probably an API for that."
+[+] "No, Karen, SharePoint is not a database."
+[+] "Just let me do it."
+[-] Accidentally became a product manager.
+[+] Debugging by pure instinct.
+[+] Claude is my best friend.
+
+
+skarlet@forge:~$ make impact
+
+✔ AI
+✔ Automation
+✔ NLP
+✔ Sports Tech
+✔ Community
+
+Build successful.
+
+Keep forging.
+</pre>
