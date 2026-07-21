@@ -19,19 +19,13 @@ skarlet@forge:~$ whoami
 
 AI Engineer
 Computational Linguist
-Builder
-Combat Sports Enthusiast & Powerlifter
-Professional "there has to be a better way"
-
-Currently replacing panic with software.
-
 
 skarlet@forge:~$ cat system.info
 
 NAME        :: Skarlet Forge
 LOCATION    :: Germany
 STATUS      :: Building cool shit
-MISSION     :: Replace spreadsheets, WhatsApp groups and chaos.
+MISSION     :: Know everything.
 
 
 skarlet@forge:~$ cat ci_cd_pipeline.txt
@@ -110,16 +104,4 @@ skarlet@forge:~$ cat side_effects.log
 [+] Debugging by pure instinct.
 [+] Claude is my best friend.
 
-
-skarlet@forge:~$ make impact
-
-✔ AI
-✔ Automation
-✔ NLP
-✔ Sports Tech
-✔ Community
-
-Build successful.
-
-Keep forging.
 </pre>
