@@ -89,12 +89,15 @@ skarlet@forge:~$ cat build_queue.txt
 
 skarlet@forge:~$ cat side_effects.log
 
-[-] Over-documents everything.
+[+] Over-documents everything.
 [+] "There's probably an API for that."
 [+] "No, Karen, SharePoint is not a database."
 [+] "Just let me do it."
-[-] Accidentally became a product manager.
 [+] Debugging by pure instinct.
-[+] Claude is my best friend.
+[+] Powered by Codex and Claude.
+
+[-] Accidentally became a product manager.
+[-] Cannot ignore inefficient workflows.
+[-] Doesn't speak corporate.
 
 </pre>
