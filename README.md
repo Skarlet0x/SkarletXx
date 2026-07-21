@@ -97,7 +97,6 @@ skarlet@forge:~$ cat side_effects.log
 [+] Powered by Codex and Claude.
 
 [-] Accidentally became a product manager.
-[-] Cannot ignore inefficient workflows.
 [-] Doesn't speak corporate.
 
 </pre>
